@@ -1,6 +1,6 @@
-# Todo App
+# Todo-app
 
-A simple Todo mobile app built with **Expo (React Native) + TypeScript**.
+First application. A simple Todo mobile app built with **Expo (React Native) + TypeScript**.
 
 ## Features
 
